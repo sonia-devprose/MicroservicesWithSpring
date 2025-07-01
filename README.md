@@ -10,3 +10,6 @@ Snapshots for HTTP methods with Postman:
 ![Screenshot 2025-07-02 015301](https://github.com/user-attachments/assets/ebdaedc5-eeaa-49cb-b6b4-725025631281)
 ![Screenshot 2025-07-02 015132](https://github.com/user-attachments/assets/a1144531-03d9-480f-b521-336dd48613ff)
 ![Screenshot 2025-07-02 014914](https://github.com/user-attachments/assets/d6a14416-97a5-41f8-bb7d-9d88a4fc379d)
+![image](https://github.com/user-attachments/assets/18de3cc8-a5b0-42b0-b05d-19019f544863)
+![image](https://github.com/user-attachments/assets/e8cbb4b9-406f-4690-b7d9-64c08d230d0f)
+
